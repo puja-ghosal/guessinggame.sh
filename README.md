@@ -1,4 +1,3 @@
-@@ -1,8 +1,8 @@
 ## The Unix Workbench course assignment
 *by Puja Ghosal on [coursera.org](https://www.coursera.org/).*
 *by Johns Hopkins University on [coursera.org](https://www.coursera.org/).*
